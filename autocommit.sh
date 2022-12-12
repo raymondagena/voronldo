@@ -19,6 +19,10 @@ mainsail_folder=~/mainsail
 ### Path to your Fluidd folder, by default that is '~/fluidd'
 #fluidd_folder=~/fluidd
 
+###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
+
+###https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F
+
 #####################################################################
 #####################################################################
 
